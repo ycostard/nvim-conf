@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+
+# Neovim cache / state
+.cache/
+.local/
+.state/
+
+# Swap / backup / undo
+*.swp
+*.swo
+*~
+undo/
+
+# Logs
+*.log
+
+# Lazy / plugins (pas nécessaire mais safe)
+lazy-lock.json
+
+# Mason binaries (optionnel)
+# si tu veux forcer réinstall sur chaque machine
+mason/
+
+# Session files
+Session.vim
+
+# Env / secrets
+.env
+.env.*
+
+# Node (si jamais)
+node_modules/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Kubernetes temp files
+*.tmp
