@@ -108,3 +108,6 @@ et :bd pour fermer le fichier
 # 🧪 Tests
 
 Voir fichier TEST.md
+
+
+Pour se balader dans les répertoires cd `$(fd --type d | fzf)`
