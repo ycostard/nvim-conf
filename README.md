@@ -69,6 +69,32 @@ Commande :
 - `Espace cf` → format
 - `Espace gg` → LazyGit
 
+📂 1. Espace e → Explorer (Neo-tree)
+
+Quand tu fais :
+
+Espace e
+
+👉 tu ouvres l’explorer de fichiers à gauche
+
+🎯 Naviguer gauche ↔ droite
+👉 Aller de l’explorer vers le code
+Ctrl + l
+👉 Revenir dans l’explorer
+Ctrl + h
+
+Touche	Direction
+Ctrl h	gauche🔄 Naviguer entre fichiers
+Ctrl l	droite
+
+🔄 Naviguer entre fichiers
+Shift + l  → fichier suivant
+Shift + h  → fichier précédent
+
+u pour ctrl z 
+
+et :bd pour fermer le fichier 
+
 ---
 
 # 🤖 Copilot
