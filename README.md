@@ -32,6 +32,10 @@ sudo apt install -y neovim git ripgrep fzf nodejs npm unzip
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+### Tmux
+
+tmux source-file .tmux.conf
+
 ### Nvim
 
 ```bash

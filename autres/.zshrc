@@ -1,5 +1,7 @@
 ZSH_THEME="dracula"
 
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
