@@ -66,4 +66,12 @@ Mettre les varbiables d'env dans zshrc
 npm install -g typescript
 ```
 
+### Lazygit
+
+```bash
+wget https://github.com/jesseduffield/lazygit/releases/download/v0.61.0/lazygit_0.61.0_linux_x86_64.tar.gz
+tar xzf lazygit_0.61.0_linux_x86_64.tar.gz
+sudo install lazygit /usr/local/bin
+```
+
 ---
